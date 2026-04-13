@@ -35,7 +35,7 @@
   </a>
 </p>
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="520" alt="AI animation" />
+<img src="Artificial-Intelligence-and-Machine-Learning.png" width="520" alt="Artificial Intelligence and Machine Learning" />
 
 </div>
 
